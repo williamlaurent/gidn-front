@@ -1,0 +1,7 @@
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: *
+Disallow: /gidn-style.css
+Disallow: /favicon.ico
+Allow: /index.html
+Allow: /index-en.html
